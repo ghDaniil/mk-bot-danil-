@@ -1,0 +1,7 @@
+conf.py
+__pycache__
+vscode
+sound/ffmpeg.exe
+ffmpeg.exe
+img/*
+!img/vs_animated

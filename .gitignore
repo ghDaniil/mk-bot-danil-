@@ -1,7 +1,10 @@
-conf.py
+# Исключения
 __pycache__
-vscode
-sound/ffmpeg.exe
-ffmpeg.exe
+conf.py
+.vscode
+FFmpeg
 img/*
+
+# Исключения исключений
 !img/vs_animated
+!img/vs_bg.png
